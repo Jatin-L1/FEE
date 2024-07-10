@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    border: 5px solid ;
+    border-color: blue;
+}
+
+h3{
+    color: green;
+    background-color: aqua;
+}
