@@ -1,0 +1,18 @@
+#container
+{
+    border: 2px solid black;
+    display: flex;
+    background-color: lightskyblue;
+    height: 400px;
+    width: 400px;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: end;
+}
+
+.items
+{
+    height: 50px;
+    width: 50px;
+    align-content: center;
+}
