@@ -90,36 +90,34 @@
 // },2000);
 
 
-function maggiLaao(cb){
-    console.log("Maggi lene gaya")
-    setTimeout((maggibaana)=>{
+// function maggiLaao(cb){
+//     console.log("Maggi lene gaya")
+//     setTimeout((maggibaana)=>{
         
-    })
-}
-function maggibaana(cb){
-    console.log("Maggi banana start kiya")
-    setTimeout((maggibani)=>{
+//     })
+// }
+// function maggibaana(cb){
+//     console.log("Maggi banana start kiya")
+//     setTimeout((maggibani)=>{
 
-    })
-}
-function maggibani(cb){
-    console.log("Maggi baan gayi")
-    setTimeout((maggikhana)=>{
+//     })
+// }
+// function maggibani(cb){
+//     console.log("Maggi baan gayi")
+//     setTimeout((maggikhana)=>{
 
-    })
-}
-function maggikhana(cb){
-    console.log("Maggi khana start kiya")
-    setTimeout((maggisamapat)=>{
+//     })
+// }
+// function maggikhana(cb){
+//     console.log("Maggi khana start kiya")
+//     setTimeout((maggisamapat)=>{
 
-    })
-}
-function maggisamapat(cb){
-    console.log("Maggi samapat ho gayi")
-    setTimeout(()=>{
+//     })
+// }
+// function maggisamapat(cb){
+//     console.log("Maggi samapat ho gayi")
+//     setTimeout(()=>{
 
-    })
-}
-
-
+//     })
+// }
 
